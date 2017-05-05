@@ -1,6 +1,6 @@
 # Personal web page
 
-[Live demo](roseliux.github.io)
+You can see the live demo of this theme at http://roseliux.github.io
 
 # Jekyll-Mono
 
