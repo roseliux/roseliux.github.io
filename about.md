@@ -4,50 +4,39 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+My name is Rocela Durazo Verdugo working with ruby on rails, with interests
+in learning new technologies.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Computer Science degree from Universidad de Sonora.
+* Coursera.
+* Code School.
 
-## Roles
+## Volunteer experience
 
-Founder, ABC Organisation
+Coach, Django Girls November 2015.
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill`
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill`
+* **Ruby on Rails** - `Ruby` / `Postgresql` / `Html` / `Javascript` / `Git`
+* **Software Development** - `Scrum` / `Teamwork` / `GNU/Linux`
 
+## Interests
 
-## Achievements
+* [**I love basketball**](#)
 
+   My favorite sport is basketball and my colors are yellow and purple (Laker fan).
+   I play basketball from 12 years old  all through college.
 
-* [**This is my first achievement**](#)
+* [**Crossfit**](#)
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+  Since august 2016 i have been doing Crossfit and improving a lot.
+  My goal is to becoming a better athlete and one day be able to win a RX competition.
 
-***
+* [**I love to learn**](#)
 
-* [**This is my second achievement**](#)
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#)
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+  I am passionate in learning new things everyday, technologies, languages.
 
 
 ## Contact me
