@@ -10,8 +10,26 @@ in learning new technologies.
 ## Education
 
 * Computer Science degree from Universidad de Sonora.
+* Pluralsight
 * Coursera.
 * Code School.
+
+## Certificates
+- Pluralsight
+    - Ruby Fundamentals
+    - Ruby Beyond the Basics
+    - AngularJS Services In-depth
+    - AngularJS Routing In-depth
+    - AWS Developer: Getting Started
+- Coursera
+    - Beginning Game Programmingwith C#
+    - The Data Scientist’s Toolbox
+    - [R Programming](https://www.coursera.org/account/accomplishments/verify/SDSSG8Q5AP)
+    - Machine Learning
+    - Learn to Program: Crafting Quality Code
+    - Web Application Architectures
+
+[dropbox link](https://www.dropbox.com/sh/lpjitlhz0v8tvbq/AAAKijexwIc8ardyqDNKKzEca?dl=0)
 
 ## Volunteer experience
 
