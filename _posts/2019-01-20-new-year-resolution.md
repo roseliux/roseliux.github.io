@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2019 resolution
+title: 2019 resolutions
 author: Rocela Durazo
 comments: true
 ---
-## 2019 resolution
+## Happy new year here are my resolutions for 2019
 -----
 
 Hi there, I write right here what my resolution for 2019 are:
